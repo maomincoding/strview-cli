@@ -1,0 +1,37 @@
+{
+  "name": "strview-cli",
+  "version": "1.0.0",
+  "description": "Strview.js project scaffolding tools.",
+  "main": "index.js",
+	"author": {
+		"name": "maomincoding",
+		"email": "17864296568@163.com",
+		"url": "https://www.maomin.club"
+	},
+  "keywords": [
+		"strview",
+    "strview.js",
+    "strview-app",
+    "strview-cli"
+	],
+  "bin": {
+		"strview-cli": "./bin/index.js"
+	},
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/maomincoding/strview-cli.git"
+	},
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+		"chalk": "^4.0.0",
+		"commander": "^5.0.0",
+		"fs-extra": "^9.0.0",
+		"inquirer": "^7.1.0"
+	},
+	"devDependencies": {},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions"
+	]
+}
