@@ -7,7 +7,7 @@ module.exports = {
 			name: 'type',
 			choices: [
 				{
-					name: 'fast-react-app@1.0.0',
+					name: 'strview-app@1.0.0',
 					value: {
 						url: 'https://github.com/maomincoding/strview-app.git',
 						gitName: 'strview-app',
