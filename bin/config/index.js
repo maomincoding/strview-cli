@@ -7,7 +7,7 @@ module.exports = {
 			name: 'type',
 			choices: [
 				{
-					name: 'strview-app@1.0.0',
+					name: 'strview-app',
 					value: {
 						url: 'https://github.com/maomincoding/strview-app.git',
 						gitName: 'strview-app',
